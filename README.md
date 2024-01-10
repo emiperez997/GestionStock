@@ -41,4 +41,4 @@ Frontend:
 
 ## Capturas
 
-![Captura 1]("https://drive.google.com/file/d/1_VKGL2T4eSUChpfJSyQPRZw1KEAKUsrn/view?usp=drive_link")
+![Captura 1]("/Pictures/1.png")
