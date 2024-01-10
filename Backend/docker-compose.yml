@@ -1,0 +1,17 @@
+version: "3.3"
+
+services:
+  sql_server:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Admin123
+    ports:
+      - 1433:1433
+    volumes:
+      - sql_server_data:/var/opt/mssql
+
+volumes:
+  pgadmin_data:
+  postgres_data:
+  sql_server_data:
