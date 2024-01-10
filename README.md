@@ -52,3 +52,29 @@ Frontend:
 ![Captura 5](/Pictures/5.png)
 
 ![Captura 6](/Pictures/6.png)
+
+## Instalación y ejecución
+
+1. Clonar el repositorio
+2. Abrir la carpeta del proyecto en Visual Studio Code
+3. Entrar una terminal y dentro de la carpeta de `Backend` ejecutar `dotnet restore`
+4. Ejecutar en la consola `docker-compose up -d` para levantar el contenedor de SQL Server
+5. Para crear la base de datos ejecutar `dotnet ef database update`
+6. Ejecutar `dotnet run` o `dotnet watch run` para ejecutar el proyecto
+7. Entrar a la carpeta `Frontend` y ejecutar `yarn install`
+8. Ejecutar `yarn start` para ejecutar el proyecto
+9. Abrir el navegador en `http://localhost:5173/`
+
+## Enlaces
+
+- [Hola Juniors]("https://www.holajuniors.com/") por el desafío
+- [Tailwind CSS]("https://tailwindcss.com/") por el framework CSS
+- [React Icons]("https://react-icons.github.io/react-icons/") por los iconos
+- [React Router]("https://reactrouter.com/") por el enrutamiento
+- [React]("https://es.reactjs.org/") por el framework de JavaScript
+
+## Contacto
+
+- [Github](https://github.com/emiperez997)
+- [Linkedin](https://www.linkedin.com/in/emiliano-perez)
+- [Email: emi.perez997@gmail.com](mailto:emi.perez997@gmail.com)
