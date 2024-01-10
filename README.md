@@ -41,10 +41,4 @@ Frontend:
 
 ## Capturas
 
-![Captura 1]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/1.png")
-
-![Captura 2]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/2.png")
-![Captura 3]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/3.png")
-![Captura 4]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/4.png")
-![Captura 5]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/5.png")
-![Captura 6]("https://github.com/emiperez997/GestionStock/blob/main/Pictures/6.png")
+![Captura 1]("https://drive.google.com/file/d/1_VKGL2T4eSUChpfJSyQPRZw1KEAKUsrn/view?usp=drive_link")
